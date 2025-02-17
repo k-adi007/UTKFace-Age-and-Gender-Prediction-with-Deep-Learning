@@ -1,4 +1,4 @@
-# UTKFace-Based Facial Attribute Analysis
+# UTKFace-Age-and-Gender-Prediction-with-Deep-Learning
 
 ## Overview
 This project utilizes the UTKFace dataset to analyze and predict facial attributes such as age, gender, and ethnicity using deep learning techniques. The dataset contains over 20,000 images with annotations covering a wide age range (0-116 years), making it suitable for tasks like age estimation, gender classification, and facial recognition.
@@ -25,8 +25,8 @@ This project utilizes the UTKFace dataset to analyze and predict facial attribut
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/UTKFace-Analysis.git
-   cd UTKFace-Analysis
+   git clone https://github.com/k-adi007/UTKFace-Age-and-Gender-Prediction-with-Deep-Learning.git
+   cd UTKFace-Age-and-Gender-Prediction-with-Deep-Learning
    ```
 2. Install dependencies:
    ```sh
@@ -62,10 +62,6 @@ python predict.py --image sample.jpg
 - Implement real-time face analysis using OpenCV.
 - Improve model robustness with additional datasets.
 - Explore transfer learning techniques for better generalization.
-- 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - UTKFace dataset creators
