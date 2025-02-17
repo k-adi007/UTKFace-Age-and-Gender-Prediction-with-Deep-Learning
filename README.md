@@ -62,10 +62,7 @@ python predict.py --image sample.jpg
 - Implement real-time face analysis using OpenCV.
 - Improve model robustness with additional datasets.
 - Explore transfer learning techniques for better generalization.
-
-## Contributors
-- **Your Name** - [GitHub](https://github.com/yourusername)
-- **Other Contributors** - [GitHub](https://github.com/contributorusername)
+- 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
