@@ -54,9 +54,8 @@ python predict.py --image sample.jpg
 ```
 
 ## Results
-- Achieved **XX% accuracy** in age estimation.
-- Gender classification reached **YY% accuracy**.
-- Ethnicity classification performed with **ZZ% accuracy**.
+- Achieved **6.5 MEA** in age estimation.
+- Gender classification reached **90% accuracy**.
 
 ## Future Work
 - Implement real-time face analysis using OpenCV.
